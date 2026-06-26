@@ -176,18 +176,20 @@
 
 ---
 
-<h2 align="center">💭 NOW PLAYING</h2>
+<h2 align="center">🦇 BATMAN MODE</h2>
+
+<br>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+  <em><strong>"i only work in the shadows. and python."</strong></em>
 </p>
 
-<pre align="center">
-"i only work in the shadows. and python."
+<br>
 
-3rd year IT @ TSEC · Building FIS · Spain MS '27
-ML Engineer · Data Scientist · AI Architect
-</pre>
+<p align="center">
+  <sup>3rd year IT @ TSEC · Building FIS · Spain MS '27</sup><br>
+  <sup>ML Engineer · Data Scientist · AI Architect</sup>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=6&width=100%" />
