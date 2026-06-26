@@ -36,34 +36,39 @@
 
 <h2 align="center">⚡ THE STACK</h2>
 
-<pre align="center">
-┌─────────────────────────────────────────────────────────┐
-│                      ML ENGINE                          │
-│  Python  │  PyTorch  │  TensorFlow  │  scikit-learn     │
-│  XGBoost  │  NumPy  │  pandas  │  Statsmodels         │
-├─────────────────────────────────────────────────────────┤
-│                      DATA OPS                           │
-│  Streamlit  │  Plotly  │  Matplotlib  │  Seaborn        │
-│  PostgreSQL  │  Supabase  │  FastF1  │  Docker          │
-├─────────────────────────────────────────────────────────┤
-│                      INFRA                              │
-│  Git  │  GitHub Actions  │  Vercel  │  Jupyter          │
-│  Linux  │  Bash  │  PyCharm  │  VS Code                │
-├─────────────────────────────────────────────────────────┤
-│                      LEARNING                           │
-│  SHAP  │  SHAP  │  SMOTE  │  Optuna  │  MLflow         │
-│  GNNs  │  Transformers  │  CV  │  Time Series          │
-└─────────────────────────────────────────────────────────┘
-</pre>
-
 <p align="center">
+  <sup><b>ML ENGINE</b></sup><br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-00BCD4?style=for-the-badge&logo=xgboost&logoColor=white" />
+</p>
+
+<p align="center">
+  <sup><b>DATA · OPS</b></sup><br>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  <sup><b>INFRA · TOOLS</b></sup><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<p align="center">
+  <sup><b>LEARNING</b></sup><br>
+  <img src="https://img.shields.io/badge/Optuna-3E82F7?style=for-the-badge&logo=optuna&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 ---
