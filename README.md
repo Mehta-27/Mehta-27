@@ -181,15 +181,10 @@
 <br>
 
 <p align="center">
-  <em><strong>"i only work in the shadows. and python."</strong></em>
+  <em><strong>"still waters run deep."</strong></em>
 </p>
 
-<br>
 
-<p align="center">
-  <sup>3rd year IT @ TSEC · Building FIS · Spain MS '27</sup><br>
-  <sup>ML Engineer · Data Scientist · AI Architect</sup>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=6&width=100%" />
