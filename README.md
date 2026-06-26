@@ -186,7 +186,7 @@
 </p>
 
 <pre align="center">
-"i don't chase benchmarks. i set them."
+"i only work in the shadows. and python."
 
 3rd year IT @ TSEC · Building FIS · Spain MS '27
 ML Engineer · Data Scientist · AI Architect
