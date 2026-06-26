@@ -68,15 +68,7 @@
 
 ---
 
-<h2 align="center">🏆 TROPHY CABINET</h2>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mehta-27&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
 
 <h2 align="center">📊 THE NUMBERS</h2>
 
