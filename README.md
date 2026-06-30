@@ -181,6 +181,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mehta-27&theme=github_dark" alt="Profile Summary" />
 </p>
 
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="80%" />
+</p>
+
 ---
 
 <h2 align="center">🦇 BATMAN MODE</h2>
