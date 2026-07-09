@@ -83,8 +83,9 @@
 <h2 align="center">📊 THE NUMBERS</h2>
 
 <p align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Mehta-27&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF007F&icon_color=00F0FF&text_color=E0E0E0&hide_border=true&rank_icon=github" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehta-27&layout=compact&langs_count=8&bg_color=0D1117&title_color=FF007F&text_color=E0E0E0&hide_border=true&card_width=360" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mehta-27&theme=synthwave" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mehta-27&theme=synthwave" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mehta-27&theme=synthwave" />
 </p>
 
 ---
