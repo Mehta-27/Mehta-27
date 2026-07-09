@@ -80,21 +80,11 @@
 
 ---
 
-
-
 <h2 align="center">📊 THE NUMBERS</h2>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mehta-27&show_icons=true&theme=dark&bg_color=0D1117&title_color=6366F1&icon_color=22C55E&text_color=FFFFFF&border_color=30363D&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehta-27&layout=compact&theme=dark&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&border_color=30363D&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Mehta-27&theme=dark&background=0D1117&ring=6366F1&fire=22C55E&currStreakLabel=FFFFFF&sideLabels=6366F1&dates=8B949E&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Mehta-27&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF007F&icon_color=00F0FF&text_color=E0E0E0&hide_border=true&rank_icon=github" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehta-27&layout=compact&langs_count=8&bg_color=0D1117&title_color=FF007F&text_color=E0E0E0&hide_border=true&card_width=360" />
 </p>
 
 ---
