@@ -101,6 +101,17 @@
 
 <table align="center">
   <tr>
+    <td colspan="3" align="center" style="padding: 20px;">
+      <h2>⚽ Ball Knowledge</h2>
+      <p><em>full-stack football analytics web app</em></p>
+      <p>FastAPI · React · TypeScript · PostgreSQL · SQLAlchemy · Vite</p>
+      <sup>7 entities · REST API · ML similarity engine · player/team/match/group/standings/venue/stage</sup><br><br>
+      <a href="https://github.com/Mehta-27/ball-knowledge">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td width="33%" align="center">
       <h3>🧹 CleanSheet AI</h3>
       <p><em>no-code data cleaning tool</em></p>
@@ -163,17 +174,6 @@
       <p>PyTorch · GNNs · CV · Time Series</p>
       <sup>tactical analysis · scouting engine · xG models</sup><br><br>
       <img src="https://img.shields.io/badge/Building-6366F1?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <h3>⚽ Ball Knowledge</h3>
-      <p><em>football analytics web app</em></p>
-      <p>FastAPI · React · TypeScript · PostgreSQL</p>
-      <sup>7 entities · REST API · full-stack · ML similarity</sup><br><br>
-      <a href="https://github.com/Mehta-27/ball-knowledge">
-        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />
-      </a>
     </td>
   </tr>
 </table>
