@@ -97,86 +97,29 @@
 
 ---
 
-<h2 align="center">📦 SHIPPED</h2>
+<h2 align="center">⚽ CURRENT FOCUS</h2>
 
-<table align="center">
-  <tr>
-    <td colspan="3" align="center" style="padding: 20px;">
-      <h2>⚽ Ball Knowledge</h2>
-      <p><em>full-stack football analytics web app</em></p>
-      <p>FastAPI · React · TypeScript · PostgreSQL · SQLAlchemy · Vite</p>
-      <sup>7 entities · REST API · ML similarity engine · player/team/match/group/standings/venue/stage</sup><br><br>
-      <a href="https://github.com/Mehta-27/ball-knowledge">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <h3>🧹 CleanSheet AI</h3>
-      <p><em>no-code data cleaning tool</em></p>
-      <p>Streamlit · pandas · Plotly</p>
-      <sup>5‑step workflow — upload → profile → detect → clean → export</sup><br><br>
-      <a href="https://github.com/Mehta-27/CleanSheet-AI">
-        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />
-      </a>
-      <a href="https://cleansheet-ai.streamlit.app">
-        <img src="https://img.shields.io/badge/Demo-FF4B4B?style=flat-square&logo=streamlit" />
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3>🏎️ F1 Intelligence Hub</h3>
-      <p><em>f1 telemetry + ml pace predictor</em></p>
-      <p>fastf1 · scikit-learn · Docker</p>
-      <sup>ingest → clean → train (RF) → streamlit dash</sup><br><br>
-      <a href="https://github.com/Mehta-27/F1-Telemetry">
-        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />
-      </a>
-      <a href="https://f1-telemetry-indol.vercel.app">
-        <img src="https://img.shields.io/badge/Demo-000000?style=flat-square&logo=vercel" />
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3>🍔 Churn Analysis</h3>
-      <p><em>food delivery churn prediction</em></p>
-      <p>XGBoost · SMOTE · SHAP</p>
-      <sup>eda → 3 classifiers → shap → business recs</sup><br><br>
-      <a href="https://github.com/Mehta-27/food-delivery-churn-analysis">
-        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <h3>🔥 Pokémon Analyzer</h3>
-      <p><em>1025 pokémon eda + comparison tool</em></p>
-      <p>Streamlit · Plotly · pandas</p>
-      <sup>deep eda + radar chart + playstyle analysis</sup><br><br>
-      <a href="https://github.com/Mehta-27/pokemon-analysis-and-comparison">
-        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />
-      </a>
-      <a href="https://mehta-27-pokemon-analysis-and-comparison.streamlit.app">
-        <img src="https://img.shields.io/badge/Demo-FF4B4B?style=flat-square&logo=streamlit" />
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3>🏦 Family Vault</h3>
-      <p><em>family financial command center</em></p>
-      <p>Streamlit · Supabase · Auth</p>
-      <sup>track assets · store docs · secure auth</sup><br><br>
-      <a href="https://github.com/Mehta-27/family-vault">
-        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <h3>⚡ FIS (Training...)</h3>
-      <p><em>football intelligence system</em></p>
-      <p>PyTorch · GNNs · CV · Time Series</p>
-      <sup>tactical analysis · scouting engine · xG models</sup><br><br>
-      <img src="https://img.shields.io/badge/Building-6366F1?style=flat-square" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Ball_Knowledge-6366F1?style=for-the-badge&logo=football-data&logoColor=white" />
+</p>
+
+<p align="center">
+  <samp>building the definitive football intelligence platform.</samp>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mehta-27/ball-knowledge">
+    <img src="https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
