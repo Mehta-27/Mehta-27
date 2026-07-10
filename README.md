@@ -68,6 +68,15 @@
 </p>
 
 <p align="center">
+  <sup><b>FRONTEND</b></sup><br>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+</p>
+
+<p align="center">
   <sup><b>INFRA · TOOLS</b></sup><br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -154,6 +163,17 @@
       <p>PyTorch · GNNs · CV · Time Series</p>
       <sup>tactical analysis · scouting engine · xG models</sup><br><br>
       <img src="https://img.shields.io/badge/Building-6366F1?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <h3>⚽ Ball Knowledge</h3>
+      <p><em>football analytics web app</em></p>
+      <p>FastAPI · React · TypeScript · PostgreSQL</p>
+      <sup>7 entities · REST API · full-stack · ML similarity</sup><br><br>
+      <a href="https://github.com/Mehta-27/ball-knowledge">
+        <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github" />
+      </a>
     </td>
   </tr>
 </table>
