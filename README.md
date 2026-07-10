@@ -96,7 +96,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mehta-27&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mehta-27&theme=darkhub&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
