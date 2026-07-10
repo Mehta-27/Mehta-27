@@ -92,7 +92,11 @@
 <h2 align="center">📊 THE NUMBERS</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mehta-27&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mehta-27&theme=dark&background=0D1117&ring=6366F1&fire=22C55E&currStreakLabel=22C55E&sideLabels=FFFFFF" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mehta-27&theme=darkhub&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
