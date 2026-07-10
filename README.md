@@ -104,7 +104,11 @@
 </p>
 
 <p align="center">
-  <samp>building the definitive football intelligence platform.</samp>
+  <samp>every pass, every goal, every decision — quantified.</samp>
+</p>
+
+<p align="center">
+  <i>player similarity engines. match analytics. scouting intelligence.</i>
 </p>
 
 <p align="center">
@@ -112,7 +116,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
 </p>
 
 <p align="center">
